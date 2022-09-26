@@ -1,6 +1,6 @@
 ## 四足机器人控制板QR-Board
 
-![img1](../../oshwhub/QR-Board/img1.png)
+![img1](img/img1.png)
 
 ## 1 简介
 
@@ -10,9 +10,7 @@ QR-Board是一块基于STM32G0微控制器的四足机器人控制板，支持�
 
 [OSHWHub：QR-Board立创EDA工程](https://oshwhub.com/yoohgc/QR-Board)
 
-![img2](../../oshwhub/QR-Board/img2.jpg)
-
-
+![img2](img/img2.jpg)
 
 ## 2 硬件资源
 
